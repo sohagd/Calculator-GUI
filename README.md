@@ -35,10 +35,6 @@ This project is a desktop-based calculator application with a graphical user int
 - Lambda functions
 - Basic input validation
 
-## Project Structure
+## GitHub Repository
 
-calculator-gui/
-│
-├── calculator.py
-├── README.md
-└── .gitignore
+View the project on GitHub on https://github.com/sohagd/Calculator-GUI
